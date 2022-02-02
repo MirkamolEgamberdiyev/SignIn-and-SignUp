@@ -26,8 +26,9 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:text="Instagram"
+                    android:fontFamily="@font/fontsfree_fet_fillabong"
                     android:textColor="@color/white"
-                    android:textSize="17sp"/>
+                    android:textSize="30dp"/>
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
