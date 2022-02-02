@@ -14,6 +14,14 @@
         android:layout_height="0dp"
         android:layout_weight="1"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Instagram"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/fontsfree_fet_fillabong"/>
 
     <EditText
         android:id="@+id/et_fullname"
